@@ -1,0 +1,17 @@
+published date:
+2017-11-15
+
+published uri:
+https://fink.hamburg/2017/11/inklusion-im-internet/
+
+language:
+de
+
+title:
+Inklusion im Internet: Das betrifft uns alle
+
+interviewer:
+Christina Höhnen
+
+format:
+email

@@ -1,0 +1,89 @@
+Barriere frei
+Inklusion im Internet: Es geht uns alle an
+Von Christina Höhnen -
+12. November 2017
+
+Das Digitale ist längst untrennbar mit unserer Realität verbunden. Daher ist der barrierefreie Zugang zum Internet wichtiger denn je – und betrifft jeden einzelnen von uns.
+
+Rampen, Aufzüge und Blindenschrift – Das sind für viele die ersten Assoziationen, wenn sie die Begriffe „Barrierefreiheit“ und „Inklusion“ hören. Doch im digitalen Zeitalter ist die virtuelle Realität zu einem wichtigen Lebensraum geworden, der für Menschen mit Beeinträchtigungen barrierefrei gestaltet werden muss.
+
+Um die Barrierefreiheit im Internet zu einem weltweiten Standard zu machen, wurden vom W3C die „Web Content Accessibility Guidelines“ (WCAG 2.0) verfasst. Die Richtlinien für barrierefreie Webinhalte sollen die Zugänglichkeit und Nutzbarkeit von Webseiten für Menschen mit Behinderungen sicherstellen. Hinzu kommt für die Bundesrepublik die deutsche „Barrierefreie Informationstechnik-Verordnung“ (BITV 2.0)
+
+---
+  W3C
+
+  Das World Wide Web Consortium ist das Gremium zur Standardisierung der Techniken im Internet. Es wurde 1994 am MIT in Cambridge gegründet. Beispiele für durch das W3C standardisierte Technologien sind HTML, CSS oder SVG.
+
+  WCAG 2.0
+
+  Die Richtlinien für barrierefreie Webinhalte sind ein Webstandard des W3C und sollen die Zugänglichkeit und Nutzbarkeit von Webseiten für Menschen mit Behinderungen sicherstellen. Sie umfassen Prinzipien, Richtlinien, Erfolgskriterien und Techniken zur Umsetzung.
+---
+
+Wie wichtig barrierefreie Webseiten sind, wurde am diesjährigen World Usabiliy Day (WUD) am 9. November unter dem Motto „Inklusion durch User Experience“ besprochen. In diesem Zusammenhang stellte sich die Frage:
+
+
+Wie leicht ist in Deutschland der Zugang zum Internet für Menschen mit geistigen oder körperlichen Einschränkungen?
+
+Laut WUD-Speakerin und Kognitionswissenschaftlerin Dr. Kerstin Bergmann sind wir an vielen Stellen noch weit entfernt.
+
+Vor allem betroffen seien die Faktoren Wahrnehmbarkeit, Bedienbarkeit und insbesondere die Gestaltung der Inhalte: „Diese werden oftmals zu komplex präsentiert und sind somit für Menschen mit Analphabetismus oder Lernschwierigkeiten nicht adäquat“, so Bergmann.
+
+Das Ausmaß wird häufig unterschätzt: Offiziell leben in Deutschland 7,5 Millionen Menschen mit funktionalem Analphabetismus. Von der Lese-Rechtschreib-Schwäche Legasthenie sollen drei bis vier Prozent eines Schuljahrgangs betroffen sein.
+
+Ein großes Problem in der Webentwicklung ist, dass viele Webseiten nicht standardkonform erstellt werden. Das geschieht, obwohl sich mehr und mehr herumspricht, dass konforme Webseiten nicht die Barrierefreiheit steigern, sondern sogar die Auffindbarkeit in Suchmaschinen erhöhen. „Somit machen wir es besonders Menschen mit Behinderungen unnötig schwer, das Web zu benutzen“, so der Webentwickler und Speaker beim diesjährigen WUD Jonas Jared Jacek.
+
+Warum also werden viele Webseiten abseits des Standards erstellt?
+
+Neben fehlendem Budget und mangelndem Wissen spielt laut Jacek der so genannte „False-Consensus Effect“ eine entscheidende Rolle. Dabei wird das Ausmaß der eigenen Meinungen, Vorstellungen, Vorlieben als normal für Andere eingeschätzt. Hier kommt die Lebenswelt der Medienschaffenden ins Spiel: „Die meisten Leute in Web-Agenturen sind jung und gesund. Es erscheint ihnen oft unbedeutend, was zum Beispiel Menschen mit Behinderungen für Anforderungen an Webseiten oder Apps haben,“ so Jacek. So entstehen oft optisch zwar ansprechende Webprodukte, die aber für viele eine Qual in Sachen Bedienung oder Verständnis sind.
+
+Wir stoßen alle auf Barrieren
+
+Neben diesen Personengruppen gibt es ein sehr diverses Feld von eingeschränkten Nutzern, wie zum Beispiel Seh- und Hörbeeinträchtigte. Jedoch kann es früher oder später jeden Menschen treffen, siehe die altbekannte Alterssehschwäche.
+
+Auch unabhängig von Alter und körperlichen und seelischen Verfassung gerät jeder in Situationen, in denen das Verwenden von Medien zur Herausforderungen wird. Zum Beispiel das Arbeiten draußen in der Sonne – ohne spezielle Displaytechnik oder Kontrasteinstellungen ein Albtraum. Anforderungen zu Farbkontrasten, und Alternativ-Texte für Multimediainhalte lassen sich sogar automatisiert testen. Für viele andere Anforderungen trifft das leider nicht zu. „Um so wichtiger ist es, ein Verständnis für die Wirkungsweise der Standards bei Webdesignern und Entwicklern zu schaffen.“, so Jacek.
+
+So unterschiedlich die Bedürfnisse und Fähigkeiten der Menschen, desto verschiedener auch die Maßnahmen, die für eine leichteren Zugang zu den Inhalten ergriffen werden müssen. Hält man sich jedoch die Prinzipien der WCAG vor Augen, so können einige Schlüsselpunkte festgemacht werden:
+
+Lösungen anhand der WCAG-Prinzipien
+
+Wahrnehmbarkeit
+
+Für eine bessere Wahrnehmbarkeit sorgen ausreichender Kontrast, Inhalte, die skalierbar sind und Alternativtexte.
+
+Eine Grundregel ist laut Frau Bergmann die Multimodalität: Informationen sollten immer auf mehreren Wegen zugänglich sein, eine Handlung muss auf mehreren Wegen ausführbar sein, damit das System auch unter schwierigen Nutzungsbedingungen funktioniert.
+
+Bedienbarkeit
+
+Internetseiten und andere Software sollten vollständig per Tastatur bedienbar sein. Das ist vor allem für Blinde und motorisch beeinträchtige Menschen wichtig. Die Schnittstelle für die Spracheingabe lassen sich bereits mit der Tastatur steuern. 
+
+Welche Rollen spielen in diesem Zusammenhang Siri, Alexa und Co.?
+
+Laut Jacek verfolgen diese Sprachassistenten – neben dem Geschäftlichen – primär das Ziel, den Funktionsumfang des Internet zu erweitern und den Zugang zu erleichtern. „Und natürlich erhöht die Fähigkeit, gesprochene Sprache zu verstehen auch die Barrierefreiheit erheblich“, so Jacek.
+
+Eine Anforderung der WCAG ist allerdings die Unabhängigkeit von Hard- und Software. Konkret in Anforderung 1.3 „Erstellen Sie Inhalte, die auf unterschiedliche Weise dargestellt werden können, ohne Informationen oder Struktur zu verlieren.“ Dazu zählen auch Sprachinterfaces. „Wenn die Richtlinien alle eingehalten wurden, sollten Sprachassistenten einwandfrei funktionieren können“, so Jacek.
+
+Außerdem benötigen Menschen mit Behinderungen oftmals mehr Zeit für die Bedienung interaktiver Systeme. Daher sollte es laut Bergmann zum Beispiel bei Onlineformularen ausreichende Bedienungsanleitungen und Hilfesysteme geben, um Fehler und deren mühsame Korrekturen zu vermeiden.
+
+Verständlichkeit
+
+Damit Inhalte für alle verständlich sind, sollten Texte auch in „einfacher Sprache“ bereitgestellt werden. Wichtige Regeln dabei sind einfache, kurze Sätze und das Weglassen von Fremdwörtern.
+
+Daneben gibt es die „leichte Sprache“. Sie richtet sich an Menschen mit einer Lernbehinderung, wie Legasthenie. Sie hat eine stark vereinfachte Grammatik wodurch auch die Komplexität der Inhalte bewusst reduziert wird. Zusätzlich verlangt die deutsche „Barrierefreie Informationstechnik-Verordnung“ (BITV), dass Behörden auf ihren Internetseiten einführende Informationen in in Gebärdensprache abbilden.
+
+Inklusion ist natürlich auch abseits der digitalen Welt in jeder Form ein enorm wichtiger Teil einer empathischen Gesellschaft. Daher sollten jeder in seinem alltäglichen Leben einen Perspektivwechsel wagen, um verschiedene Barrieren zu erkennen und darauf aufmerksam zu machen. Lest mehr dazu in diesem Selbstversuch.
+
+---
+Vier Prinzipien der WCAG 2.0
+
+Wahrnehmbarkeit:
+Informationen und Bestandteile müssen so präsentiert werden, dass sie gut wahrnehmbar sind.
+
+Bedienbarkeit:
+Bestandteile der Benutzerschnittstelle und Navigation müssen bedienbar sein.
+
+Verständlichkeit:
+Informationen und Bedienung der Benutzerschnittstelle müssen verständlich sein.
+
+Robustheit:
+Inhalte müssen robust genug sein, damit sie zuverlässig von vielen Benutzeragenten  und assistierender Techniken interpretiert werden können.
+---
